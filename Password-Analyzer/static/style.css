@@ -337,3 +337,24 @@ margin-left:20px;
 #feedback li{
 margin-bottom:8px;
 }
+
+.footer{
+margin-top:30px;
+text-align:center;
+color:#94a3b8;
+font-size:.9rem;
+}
+
+.footer a{
+color:#c084fc;
+text-decoration:none;
+transition:color .3s ease,
+	text-shadow .3s ease;
+}
+
+.footer a:hover{
+color:#fff;
+text-shadow:
+	0 0 8px #a855f7,
+	0 0 18px #a855f7;
+}
